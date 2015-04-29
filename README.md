@@ -25,13 +25,12 @@ To find out more visit http://appscale.com
 
 ## Community and support
 ### Community Group
-Join the community Google Group for announcements, help, and to discuss 
-cloud research: http://groups.google.com/group/appscale_community
+Join the [Community Google Group](http://groups.google.com/group/appscale_community) for announcements, help, and to discuss 
+cloud research.
 
 ### IRC
-Also, join us on #appscale on freenode if you have questions, suggestions, 
+Also, join us on [#appscale on freenode](http://webchat.freenode.net/?channels=appscale&uio=d4) if you have questions, suggestions, 
 comments, or just want to say hi!
-http://webchat.freenode.net/?channels=appscale&uio=d4
 
 
 ## Sponsors
