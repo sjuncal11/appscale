@@ -30,9 +30,6 @@ Also, join us on #appscale on freenode if you have questions, suggestions,
 comments, or just want to say hi!
 http://webchat.freenode.net/?channels=appscale&uio=d4
 
-## Screen Shots
-![AppScale Dashboard Screenshot](http://www.appscale.com/wp-content/uploads/2014/06/appscale-screenshot.png)
-
 ## Sponsors
 Google
 
