@@ -1,7 +1,7 @@
 # AppScale
 
-[![AppScale version](https://badge.fury.io/gh/AppScale%2Fappscale@2x.png)](http://github.com/AppScale/appscale)
-[![AppScale license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=plastic)](https://github.com/AppScale/appscale/blob/master/LICENSE)
+[![GitHub version](https://badge.fury.io/gh/AppScale%2Fappscale.svg)](http://badge.fury.io/gh/AppScale%2Fappscale)
+[![AppScale license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/AppScale/appscale/blob/master/LICENSE)
 
 AppScale is a platform that allows users to deploy and host their 
 own Google App Engine applications. It executes automatically over 
