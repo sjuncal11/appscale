@@ -11,14 +11,17 @@ developed and is maintained by AppScale Systems, Inc., in Santa Barbara, CA.
 
 It supports the Python, Java, PHP, and Go Google App Engine platforms.
 
+
 ## Why Use AppScale?
 Our goal with AppScale is to provide an open-source cloud platform that you 
 can use to deploy your Google App Engine applications on clusters and clouds of your choice.    
+
 
 ## Official Documentation
 https://github.com/AppScale/appscale/wiki
 
 To find out more visit http://appscale.com
+
 
 ## Community and support
 ### Community Group
@@ -29,6 +32,7 @@ cloud research: http://groups.google.com/group/appscale_community
 Also, join us on #appscale on freenode if you have questions, suggestions, 
 comments, or just want to say hi!
 http://webchat.freenode.net/?channels=appscale&uio=d4
+
 
 ## Sponsors
 Google
