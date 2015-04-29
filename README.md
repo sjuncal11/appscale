@@ -1,4 +1,7 @@
-![AppScale Logo](http://upload.wikimedia.org/wikipedia/commons/7/74/AppScale_Systems_Logo.png)
+# AppScale
+
+[![AppScale version](https://badge.fury.io/gh/AppScale%2Fappscale@2x.png)](http://github.com/AppScale/appscale)
+[![AppScale license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=plastic)](https://github.com/AppScale/appscale/blob/master/LICENSE)
 
 AppScale is a platform that allows users to deploy and host their 
 own Google App Engine applications. It executes automatically over 
@@ -8,32 +11,29 @@ developed and is maintained by AppScale Systems, Inc., in Santa Barbara, CA.
 
 It supports the Python, Java, PHP, and Go Google App Engine platforms.
 
-To find out more visit http://appscale.com
+## Why Use AppScale?
+Our goal with AppScale is to provide an open-source cloud platform that you 
+can use to deploy your Google App Engine applications on clusters and clouds of your choice.    
 
 ## Official Documentation
 https://github.com/AppScale/appscale/wiki
 
-## Latest Release ##
-The latest stable release is AppScale 2.3.1, released in April, 2015.
-Feature requests and pull requests gladly welcomed.
+To find out more visit http://appscale.com
 
-## Mailing List ##
-Join the mailing list for announcements, help, and to discuss 
+## Community and support
+### Community Group
+Join the community Google Group for announcements, help, and to discuss 
 cloud research: http://groups.google.com/group/appscale_community
 
-## IRC ##
+### IRC
 Also, join us on #appscale on freenode if you have questions, suggestions, 
 comments, or just want to say hi!
 http://webchat.freenode.net/?channels=appscale&uio=d4
 
-## Why Use AppScale? ##
-Our goal with AppScale is to provide an open-source cloud platform that you 
-can use to deploy your Google App Engine applications on clusters and clouds of your choice.    
-
-## Screen Shots ##
+## Screen Shots
 ![AppScale Dashboard Screenshot](http://www.appscale.com/wp-content/uploads/2014/06/appscale-screenshot.png)
 
-## Sponsors ##
+## Sponsors
 Google
 
 IBM Research
